@@ -1,4 +1,4 @@
-## SetReadyReact
+## ReadySetReact
 
 ### Purpose
 
