@@ -23,6 +23,7 @@
 ### File Modifications
 
 **This script will modify the following files/folders:**
+
 **1. README file:**
 
 - Delete the entire file contents.
