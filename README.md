@@ -1,5 +1,5 @@
 ## SetReadyReact
-***
+
 ### Purpose
 
 #### The react.sh<sup>`Standard`</sup> or reactTs.sh<sup>`TypeScript`</sup> scripts, are designed to make it easy to set up a new React project using create-react-app and perform a basic cleanup of unnecessary files and folders
