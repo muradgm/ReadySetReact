@@ -15,7 +15,7 @@
 > **Note:** please make sure to add the correct file path
 
 **3. Make sure you are in the `/usr/local/bin` directory, then make the script executable by running**
-`chmod +x ./react.sh` or `chmod +x ./reactTs.sh`
+`sudo chmod +x ./react.sh` or `sudo chmod +x ./reactTs.sh`
 
 **The script should now be executable.**
 **You can create your React project by running** `react.sh` or `reactTs.sh` **in your terminal.**
