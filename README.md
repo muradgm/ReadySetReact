@@ -7,6 +7,7 @@
 ### How to Use
 
 **1. Download the react.sh<sup>`Standard`</sup> or reactTs.sh<sup>`TypeScript`</sup> file to your computer.**
+
 **2. Use the `mv` command to move the file from its current location to the `/usr/local/bin` directory.**
 **`sudo mv /path/to/react.sh /usr/local/bin/`**
 
