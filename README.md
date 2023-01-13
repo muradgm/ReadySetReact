@@ -1,10 +1,10 @@
-# React Cleaner
-
-## Purpose
+## SetReadyReact
+***
+### Purpose
 
 #### The react.sh<sup>`Standard`</sup> or reactTs.sh<sup>`TypeScript`</sup> scripts, are designed to make it easy to set up a new React project using create-react-app and perform a basic cleanup of unnecessary files and folders
 
-## How to Use
+### How to Use
 
 **1. Download the react.sh<sup>`Standard`</sup> or reactTs.sh<sup>`TypeScript`</sup> file to your computer.**
 **2. Use the `mv` command to move the file from its current location to the `/usr/local/bin` directory.**
@@ -49,9 +49,14 @@
   box-sizing: border-box;
   }
   ```
+___
 
-## License
+### License
 
-This project is licensed under the [MIT License](LICENSE).
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the [LICENSE](LICENSE).
 
-#### Happy Coding 💻
+
+***
+
+### Happy Coding 💻
