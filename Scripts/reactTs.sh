@@ -47,8 +47,6 @@ sed -i  '5 i <meta http-equiv="X-UA-Compatible" content="IE=edge">' ./index.html
 
 sed -i '7d' ./index.html
 sed -i "7 i <title>${name}</title>" ./index.html
-# envsubst '$name' < index.html > index_new.html
-# mv index_new.html index.html
 
 
 # Delete all unnecessary files in src Folder
